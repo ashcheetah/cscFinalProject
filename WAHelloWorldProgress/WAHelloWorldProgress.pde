@@ -258,7 +258,7 @@ void draw() {
     if (instructions.isPlaying() == false) {
       instructions.play();
     }
-    
+    break;
  
  }
 
