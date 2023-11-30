@@ -103,7 +103,7 @@ class Enemy {
                 if (keyPressed){
                 if (key == 'r');
                 resetGame();
-               startScreen = 5;         
+               startScreen = 0;         
               }
           }
           
